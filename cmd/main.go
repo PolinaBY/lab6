@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/Timosssshka/lr5oblaka/internal/worker"
+	"github.com/PolinaBY/lab6/internal/worker.go"
 )
 
 func main() {
