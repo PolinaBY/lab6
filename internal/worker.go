@@ -2,7 +2,7 @@ package worker
 
 import (
 	"fmt"
-	"github.com/Timosssshka/lr5oblaka/pkg/mutex"
+	"github.com/PolinaBY/lab6/pkg/mutex.go"
 )
 
 func RunWorkers(count int) {
