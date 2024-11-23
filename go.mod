@@ -1,3 +1,3 @@
-module github.com/Timosssshka/lr5oblaka
+module github.com/PolinaBY/lab6
 
 go 1.23.2
